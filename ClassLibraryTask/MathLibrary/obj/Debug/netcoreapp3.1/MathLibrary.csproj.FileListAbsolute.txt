@@ -1,0 +1,10 @@
+C:\Users\Admino\source\repos\localRepoForMatrixHomework\MathLibrary\bin\Debug\netcoreapp3.1\MathLibrary.deps.json
+C:\Users\Admino\source\repos\localRepoForMatrixHomework\MathLibrary\bin\Debug\netcoreapp3.1\MathLibrary.dll
+C:\Users\Admino\source\repos\localRepoForMatrixHomework\MathLibrary\bin\Debug\netcoreapp3.1\MathLibrary.pdb
+C:\Users\Admino\source\repos\localRepoForMatrixHomework\MathLibrary\obj\Debug\netcoreapp3.1\MathLibrary.csproj.AssemblyReference.cache
+C:\Users\Admino\source\repos\localRepoForMatrixHomework\MathLibrary\obj\Debug\netcoreapp3.1\MathLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admino\source\repos\localRepoForMatrixHomework\MathLibrary\obj\Debug\netcoreapp3.1\MathLibrary.AssemblyInfoInputs.cache
+C:\Users\Admino\source\repos\localRepoForMatrixHomework\MathLibrary\obj\Debug\netcoreapp3.1\MathLibrary.AssemblyInfo.cs
+C:\Users\Admino\source\repos\localRepoForMatrixHomework\MathLibrary\obj\Debug\netcoreapp3.1\MathLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Admino\source\repos\localRepoForMatrixHomework\MathLibrary\obj\Debug\netcoreapp3.1\MathLibrary.dll
+C:\Users\Admino\source\repos\localRepoForMatrixHomework\MathLibrary\obj\Debug\netcoreapp3.1\MathLibrary.pdb
