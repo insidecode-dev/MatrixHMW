@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admino\\source\\repos\\ColorChange\\ColorChange.csproj",
+      "projectUniqueName": "C:\\Users\\Admino\\source\\repos\\localRepoForMatrixHomework\\ColorChange\\ColorChange.csproj",
       "projectName": "ColorChange",
-      "projectPath": "C:\\Users\\Admino\\source\\repos\\ColorChange\\ColorChange.csproj",
+      "projectPath": "C:\\Users\\Admino\\source\\repos\\localRepoForMatrixHomework\\ColorChange\\ColorChange.csproj",
       "packagesPath": "C:\\Users\\Admino\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admino\\source\\repos\\ColorChange\\obj\\",
+      "outputPath": "C:\\Users\\Admino\\source\\repos\\localRepoForMatrixHomework\\ColorChange\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

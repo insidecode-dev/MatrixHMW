@@ -7,7 +7,7 @@ namespace BankAccountProject.Helper
     public class SavingsAcct:ParentOfAcct
     {
         private readonly decimal commission=0;
-        private static decimal commissionCount=0;
+        private decimal commissionCount=0;
         public SavingsAcct(string name, string surname, decimal _commission, decimal initBalance)
         {
             AccountOwner= name+" "+surname;
