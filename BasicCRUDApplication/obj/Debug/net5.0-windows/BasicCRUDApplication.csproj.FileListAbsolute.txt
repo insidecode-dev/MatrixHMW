@@ -23,3 +23,4 @@ C:\Users\Admino\source\repos\localRepoForMatrixHomework\BasicCRUDApplication\obj
 C:\Users\Admino\source\repos\localRepoForMatrixHomework\BasicCRUDApplication\obj\Debug\net5.0-windows\BasicCRUDApplication.pdb
 C:\Users\Admino\source\repos\localRepoForMatrixHomework\BasicCRUDApplication\obj\Debug\net5.0-windows\BasicCRUDApplication.genruntimeconfig.cache
 C:\Users\Admino\source\repos\localRepoForMatrixHomework\BasicCRUDApplication\obj\Debug\net5.0-windows\ref\BasicCRUDApplication.dll
+C:\Users\Admino\source\repos\localRepoForMatrixHomework\BasicCRUDApplication\bin\Debug\net5.0-windows\BasicCRUDApplication.dll.config

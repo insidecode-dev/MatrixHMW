@@ -10,7 +10,8 @@ namespace BasicCRUDApplication
 {
     public class ConnectionHelper
     {
-        private string connectionString = "Data Source=DESKTOP-TOURGOO\\SQLEXPRESS;Initial Catalog=BasicBankSystem;Integrated Security=True";
+
+        private static string connectionString = ConfigurationManager.ConnectionStrings["Default"].ConnectionString;
 
         private SqlConnection con;
         

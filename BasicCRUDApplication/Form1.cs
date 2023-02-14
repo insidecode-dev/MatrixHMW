@@ -41,7 +41,11 @@ namespace BasicCRUDApplication
                 this.dataTable.Clear();
                 this.dataTable.Load(this.connectionHelper.DtRd);
                 dataGridView1.DataSource = this.dataTable;                
-            }          
+            }
+            //while (true)
+            //{
+            //     _ = ReNeWGridView();
+            //}
         }
 
         private void button1_add_Click(object sender, EventArgs e)
@@ -136,6 +140,19 @@ namespace BasicCRUDApplication
             { }                          
         }
 
+        
+        private async Task ReNeWGridView()
+        {
+            await Task.Delay(4000);
+            using (SqlCommand cmd = new SqlCommand("select * from dbo.Person", this.connectionHelper.Con))
+            {
+               SqlDataReader reader = cmd.ExecuteReader();
+                while (reader.Read())
+                {
+
+                }
+            }
+        }
 
         //private void Dynamically()
         //{
