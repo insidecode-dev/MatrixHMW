@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "YmmKXvTAAC9OyYBLKP4lFMPNdd3GcMAyLNIztOcREYsB67jiIrI36XgjG/DrzghPVoF0P0/uCeYQLljCRV0a6g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admino\\source\\repos\\localRepoForMatrixHomework\\MessageWithAutoFac\\MessageWithAutoFac.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admino\\.nuget\\packages\\autofac\\6.5.0\\autofac.6.5.0.nupkg.sha512",
+    "C:\\Users\\Admino\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
