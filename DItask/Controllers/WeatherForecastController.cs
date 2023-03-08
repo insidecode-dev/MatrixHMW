@@ -37,11 +37,11 @@ namespace DItask.Controllers
         #endregion
 
         #region GetWeather
-        //[HttpGet]
-        //public WeatherData GetWeather(string cityName)
-        //{
-        //    return _weatherservice.ReturnWeatherData(cityName);
-        //}
+        [HttpGet]
+        public WeatherData GetWeather(string cityName)
+        {
+            return _weatherservice.ReturnWeatherData(cityName);
+        }
         #endregion
     }
 }
