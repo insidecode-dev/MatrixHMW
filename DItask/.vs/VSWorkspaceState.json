@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
+    "\\Classes",
     "\\Controllers"
   ],
-  "SelectedNode": "\\Controllers\\WeatherForecastController.cs",
+  "SelectedNode": "\\Classes\\WeatherService.cs",
   "PreviewInSolutionExplorer": false
 }
